@@ -13,7 +13,11 @@
   ],
   "main": "generators\\index.js",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "bootstrap",
+    "grunt",
+    "template",
+    "hanglebars"
   ],
   "dependencies": {
     "generator-jasmine": "^0.2.0",
@@ -38,7 +42,7 @@
     "gulp-nsp": "^2.1.0",
     "gulp-coveralls": "^0.1.0"
   },
-  "repository": "pacav69/generator-modernbusiness",
+  "repository": "pacav69/generator-btaw",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
