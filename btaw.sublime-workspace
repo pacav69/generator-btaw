@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wat",
+				"watching"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"w",
+				"watch"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"comp",
+				"component"
+			],
+			[
+				"g",
+				"generator"
+			],
+			[
+				"controll",
+				"controllers"
+			],
+			[
+				"Com",
+				"Component"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"jadd",
+				"jaddhelper	jaddhelper"
+			],
+			[
+				"d",
+				"do	do … while …"
+			],
+			[
+				"php",
+				"php_help	php_help"
+			],
+			[
+				"m",
+				"module"
+			],
+			[
+				"jadmin",
+				"jadminlayoutedit_nav-tabs_rules	jadminlayoutedit_nav-tabs_rules"
+			],
+			[
+				"ja",
+				"jaddlink-categories	jaddlink-categories"
+			],
+			[
+				"la",
+				"langcode"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"t",
+				"tasks"
+			],
+			[
+				"ta",
+				"tag"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"file",
+				"fileList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1087,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1465,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Snippet: jadmin		  ",
+				"Snippet: jadminconfig"
+			],
+			[
+				"Snippet: jadmin",
+				"Snippet: jadminaccess"
+			],
+			[
+				"Snippet: j",
+				"Snippet: jaddlink"
+			],
+			[
+				"Snippet: ",
+				"Snippet: locale"
+			],
+			[
+				"Snippet: 		",
+				"Snippet: jsitetemplatelang"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dir",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/spc/g-btaw"
+	],
+	"file_history":
+	[
+		"/D/Silverpcgroup/generator-modernbusiness/generators/app/index.js",
+		"/D/Silverpcgroup/generator-modernbusiness/generators/package.json",
+		"/D/Silverpcgroup/generator-modernbusiness/generators/app/indexorig.js",
+		"/D/Silverpcgroup/generator-modernbusiness/generators/app/templates/app/index.html",
+		"/D/Silverpcgroup/generator-modernbusiness/generators/app/templates/Gruntfile.js",
+		"/D/Silverpcgroup/generator-modernbusiness/package.json",
+		"/D/Silverpcgroup/generator-modernbusiness/generators/app/templates/_package.json",
+		"/D/Silverpcgroup/generator-modernbusiness/generators/app/templates/_Gruntfile.js",
+		"/C/projects/joomspc/Gruntfile.js",
+		"/C/projects/joomspc/changelog.md",
+		"/C/projects/joomspc/README.md",
+		"/C/projects/joomspc/todo.txt",
+		"/C/projects/joomspc/coffeelint.json",
+		"/C/projects/joomspc/node_modules/grunt-coffeelint/README.md",
+		"/C/projects/joomspc/src/indexapp.coffee",
+		"/C/projects/joomspc/helper/index.js",
+		"/C/projects/joomspc/src/helper/index.coffee",
+		"/C/projects/joomspc/controller/index.js",
+		"/C/projects/joomspc/src/controller/index.coffee",
+		"/C/projects/joomspc/model/index.js",
+		"/C/projects/joomspc/src/model/index.coffee",
+		"/C/projects/joomspc/src/view/index.coffee",
+		"/C/projects/joomspc/view/index.js",
+		"/C/projects/joomspc/view/index.coffee",
+		"/C/projects/joomspc/view/indexorig.js",
+		"/C/projects/joomspc/package.json",
+		"/C/projects/joomspc/node_modules/grunt-coffeelint/node_modules/grunt-legacy-util/test/index.js",
+		"/C/projects/joomspc/app/index.coffee",
+		"/C/projects/joomspc/app/index_2.coffee",
+		"/C/projects/joomspc/app/indexworkingdec12_v0.1.3.coffee",
+		"/D/ppApps/SublimeText3Build3083.x64/Data/Packages/CoffeeComplete Plus (Autocompletion)/README.md",
+		"/C/projects/joomspc/app/indexdevdec11.coffee",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/_access.xml",
+		"/C/projects/joomspc/app/indexorig.coffee",
+		"/C/projects/joomspc/app/indexorig.js",
+		"/C/projects/joomspc/app/index.js",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/controllers/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-basic/admin/helpers/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/helpers/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-basic/admin/language/en-GB/_en-GB.com_component-name.ini",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/language/en-GB/_en-GB.com_component-name.ini",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/language/en-GB/_en-GB.com_component-name.sys.ini",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/models/fields/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/models/forms/_filter_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/models/rules/greeting.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/models/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/models/_component-names.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/sql/updates/mysql/0.0.12.sql",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/sql/updates/mysql/0.0.13.sql",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/sql/updates/mysql/0.0.14.sql",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/sql/updates/mysql/0.0.6.sql",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/sql/install.mysql.utf8.sql",
+		"/C/projects/joomspc/cakefile",
+		"/C/projects/joomspc/node_modules/grunt-contrib-watch/README.md",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/sql/uninstall.mysql.utf8.sql",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/tables/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/views/_component-name/tmpl/edit.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/views/_component-name/submitbutton.js",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/views/_component-name/view.html.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/views/_component-names/tmpl/default.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/views/_component-names/view.html.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/access.xml",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/config.xml",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/controller.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/site/models/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/site/views/_component-name/tmpl/default.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/site/views/_component-name/tmpl/default.xml",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/site/views/_component-name/view.html.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/site/controller.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/script.php",
+		"/C/projects/joomspc/app/templates/ext-com-basic/_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/site/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/models/forms/_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com-intermediate/admin/controllers/_component-names.php",
+		"/C/projects/joomspc/app/templates/ext-com/admin/releasenotes.txt",
+		"/C/projects/joomspc/app/templates/ext-comorig/administrator/controllers/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/site/helpers/route.php",
+		"/C/projects/joomspc/app/templates/ext-com/site/models/gallery.php",
+		"/C/projects/joomspc/app/templates/ext-com/site/views/gallery/tmpl/default.php",
+		"/C/projects/joomspc/app/templates/ext-com/site/views/gallery/tmpl/default.xml",
+		"/C/projects/joomspc/app/templates/ext-com/site/views/gallery/view.html.php",
+		"/C/projects/joomspc/app/templates/ext-com/site/controller.php",
+		"/C/projects/joomspc/app/templates/ext-com/site/router.php",
+		"/C/projects/joomspc/app/templates/ext-comorig/administrator/_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com/_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com/script.php",
+		"/C/projects/joomspc/app/templates/ext-com/site/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/site/language/en-GB/en-GB.com_component-name.ini",
+		"/C/projects/joomspc/app/templates/ext-com/admin/language/en-GB/en-GB.com_component-name.ini",
+		"/C/projects/joomspc/app/templates/ext-comorig/administrator/language/en-GB/_en-GB.com_component-name.ini",
+		"/C/projects/joomspc/app/templates/ext-com/admin/helpers/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/admin/language/en-GB/en-GB.com_component-name.sys.ini",
+		"/C/projects/joomspc/app/templates/ext-com/admin/libraries/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/admin/libraries/_ziparchive.php",
+		"/C/projects/joomspc/app/templates/ext-com/admin/models/_gallery.php",
+		"/C/projects/joomspc/app/templates/ext-com/admin/views/gallery/tmpl/default.php",
+		"/C/projects/joomspc/app/templates/ext-com/admin/views/gallery/view.html.php",
+		"/C/projects/joomspc/app/templates/ext-com/admin/_access.xml",
+		"/C/projects/joomspc/app/templates/ext-com/admin/_config.xml",
+		"/C/projects/joomspc/app/templates/ext-com/admin/controller.php",
+		"/C/projects/joomspc/app/templates/ext-com/admin/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/language/en-GB/_en-GB.com_component-name.ini",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/language/en-GB/_en-GB.origcom_component-name.ini",
+		"/C/projects/joomspc/app/templates/ext-plg/_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/language/en-GB/_en-GB.com_component-name.sys.ini",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/models/forms/_component-name.xml",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/sql/_install.mysql.utf8.sql",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/sql/_uninstall.mysql.utf8.sql",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/sql/install.mysql.utf8.sql",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/models/fields/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/models/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/models/_component-names.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/tables/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/views/_component-name/submitbutton.js",
+		"/C/projects/joomspc/app/templates/ext-com/site/views/_component-name/view.html.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/views/_component-name/view.html.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/views/_component-names/tmpl/default.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/views/_component-names/tmpl/default_body.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/views/_component-names/tmpl/default_head.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/views/_component-names/view.html.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/views/_component-name/tmpl/edit.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/controllers/_component-name.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/controllers/_component-names.php",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/_config.xml",
+		"/C/projects/joomspc/app/templates/ext-com/administrator/controller.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"C:\\projects\\joomspc\\app\\templates\\ext-com-intermediate\\",
+			"C:\\projects\\joomspc\\app\\templates\\ext-com-intermediate\\admin",
+			"C:\\yojom2\\generator-yojom2\\generators",
+			"C:\\yojom2\\generator-yojom2",
+			"C:\\projects\\startbs-mb-spc",
+			"/_gh_pages/assets/js/bootstrap.js\n,<open folders>",
+			"D:\\pj2_3\\pj2_3",
+			"C:\\pj3\\gbs\\boilerplate-bootstrap",
+			"C:\\pj2all\\pj2_3\\src",
+			"C:\\pj2all\\pj2\\src\\assets\\less,C:\\pj2all\\pj2\\src\\assets_2\\less,C:\\pj2all\\pj2\\src",
+			"C:\\pj2all\\pj2\\src\\assets\\less,C:\\pj2all\\pj2\\src\\assets_2\\less",
+			"C:\\pj2all\\pj2\\src\\assets\\less",
+			"C:\\pj2all\\pj2\\src\\templates\\partials_2,C:\\pj2all\\pj2\\src\\templates\\pages_2,C:\\pj2all\\pj2\\src\\data_2,C:\\pj2all\\pj2\\src\\assets_2,C:\\pj2all\\pj2\\src\\helper_2,C:\\pj2all\\pj2\\src\\tasks_2",
+			"C:\\pj2all\\pj2\\src\\templates\\partials_2,C:\\pj2all\\pj2\\src\\templates\\pages_2",
+			"C:\\pj2all\\pj2\\src\\templates\\partials_2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"websitetitle",
+			"navbarbrand",
+			"navbar-bran",
+			"appname",
+			"inde",
+			"boot",
+			"index",
+			"package",
+			"generator-mocha",
+			"*Not yet implemented*",
+			"component",
+			"\"",
+			"src",
+			"ctor",
+			"Ctor",
+			"joomla",
+			"src",
+			"scafforld",
+			"media",
+			"grunt",
+			"_component-name",
+			"admin",
+			"php",
+			"admin",
+			"gallery",
+			"edit",
+			"view.html.php",
+			"default",
+			"gallery",
+			"models",
+			"php",
+			"fields",
+			"helpers",
+			"###",
+			"# ",
+			"hello",
+			"helloworld",
+			"HelloWorld",
+			"HELLOWORLD",
+			"helloworld",
+			"HELLOWORLD",
+			"HelloWorld",
+			"helloworld",
+			"HelloWorld",
+			"helloworld",
+			"HELLOWORLD",
+			"HelloWorld",
+			"helloworld",
+			"HelloWorld",
+			"helloworld",
+			"HELLOWORLD",
+			"helloworld",
+			"HelloWorld",
+			"helloworld",
+			"HELLOWORLD",
+			"helloworld",
+			"HelloWorld",
+			"helloworld",
+			"HELLOWORLD",
+			"HelloWorld",
+			"helloworld",
+			"HelloWorld",
+			"HELLOWORLD",
+			"HelloWorld",
+			"helloworld",
+			"HELLOWORLD",
+			"helloworld",
+			"HelloWorld",
+			"helloworld",
+			"<%=_.slugify(nameUppercase) %>",
+			"<%=_.slugify(nameCamelcase) %>",
+			"<%=_.slugify(nameLowercase) %>",
+			"<%=_.slugify(nameUppercase) %>",
+			"<%=_.slugify(nameCamelcase) %>",
+			"<%=_.slugify(nameUppercase) %>",
+			"<%=_.slugify(nameLowercase) %>",
+			"<%=_.slugify(nameUppercase) %>",
+			"<%=_.slugify(nameLowercase) %>\n *",
+			"<%=_.slugify(nameCamelcase) %>",
+			"<%=_.slugify(nameLowercase) %>",
+			"<%=_.slugify(nameCamelcase) %>",
+			"<%=_.slugify(nameLowercase) %>",
+			"    // watch: {\n\n    //             src: {\n    //                 files: ['app/index.coffee', 'controller/index.coffee'],\n    //                 tasks: ['coffee']\n    //             // },\n    //             // test: {\n    //             //     files: '<%= jshint.test.src %>',\n    //             //     tasks: ['jshint:test', 'qunit'],\n    //             // },\n    //         }\n    //     },",
+			"helloworld",
+			"HELLOWORLD",
+			"helloworld",
+			"<%=_.slugify(nameLowercase) %>",
+			"helloworld",
+			"HELLOWORLD",
+			"HelloWorld",
+			"HELLOWORLD",
+			"HelloWorld",
+			"<%=_.slugify(nameCamelcase) %>",
+			"HelloWorld",
+			"helloworld",
+			"nameUppercase",
+			"inquirer",
+			"writingCom",
+			"myal",
+			"MYALBUM",
+			"menu",
+			"site/",
+			"router",
+			"site/router",
+			"controller",
+			"php",
+			"admin",
+			"controller.php",
+			"administrator",
+			"myalbum",
+			"COM_MYALBUM",
+			"myalbum",
+			"My Album",
+			"COM_MYALBUM",
+			"myalbum",
+			"MyAlbum",
+			"myalbum",
+			"MyAlbum",
+			"MYALBUM",
+			"com_myalbum",
+			"myalbum",
+			"myalb",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"com_<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.slugify(componentName).toUpperCase() %>Util",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"MyAlbum"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#",
+			"### ",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"<%= _.slugify(componentName) %>",
+			"<%= _.slugify(componentName).toUpperCase() %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>",
+			"com_<%= _.slugify(componentName) %>",
+			"<%= _.str.capitalize(_.slugify(componentName)) %>Util",
+			"myExtension",
+			"Searching"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "btaw.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,47 @@
+{
+  "name": "generator-modernbusiness",
+  "version": "0.0.0",
+  "description": "Modern Business Template",
+  "homepage": "silverpcgroup.com",
+  "author": {
+    "name": "pacav69",
+    "email": "pacav69@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators\\index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "generator-jasmine": "^0.2.0",
+    "generator-mocha": "^0.2.0",
+    "mkdirp": "^0.5.1",
+    "underscore.string": "^3.1.1",
+    "wiredep": "^2.2.2",
+    "yeoman-generator": "^0.21.1",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.4"
+  },
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "mocha": "*",
+    "yeoman-assert": "^2.0.0",
+    "gulp": "^3.6.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.9.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0",
+    "gulp-coveralls": "^0.1.0"
+  },
+  "repository": "pacav69/generator-modernbusiness",
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "MIT"
+}

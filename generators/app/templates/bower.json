@@ -1,0 +1,54 @@
+{
+  "name": "Bootstrap-Template-Another-Way-BTAW",
+  "description": "TBootstrap Template Another Way BTAW",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pacav69/btaw",
+  "author": {
+    "name": "pacav69",
+    "url": "http://github.com/pacav69/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pacav69/btaw.git"
+  },
+  "main": "dist/index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "twbs",
+    "assemble",
+    "grunt",
+    "less",
+    "template",
+    "twitter bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "dist"
+  ],
+  "devDependencies": {
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2",
+    "gmaps": "~0.4.16",
+    "jquery-mousewheel": "~3.1.12",
+    "bootstrap-daterangepicker": "~1.3.17",
+    "jQuery.validVal": "~5.0.2",
+    "plupload": "~2.1.2",
+    "kbwood_countdown": "git://github.com/kbwood/countdown.git#2.0.1",
+    "jquery-inputlimiter": "https://github.com/bitmanic/jquery-inputlimiter/blob/master/jquery-inputlimiter.1.3.1.zip",
+    "fullcalendar": "~2.2.6",
+    "bootstrap3-wysihtml5-bower": "~0.3.3",
+    "bootstrap": "~3.3.2",
+    "jquery-validation": "~1.13.1",
+    "font-awesome": "fontawesome#~4.4.0"
+  },
+  "resolutions": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
