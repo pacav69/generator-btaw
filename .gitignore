@@ -80,3 +80,5 @@ $RECYCLE.BIN/
 node_modules
 coverage
 testingapp
+*.sublime-project
+*.sublime-workspace
