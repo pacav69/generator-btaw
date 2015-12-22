@@ -9,7 +9,7 @@ First, install [Yeoman](http://yeoman.io) and generator-btaw using [npm](https:/
 
 ```bash
 npm install -g yo
-npm install -g btaw
+npm install -g generator-btaw
 ```
 
 Then generate your new project:
