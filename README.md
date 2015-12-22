@@ -1,13 +1,15 @@
-# generator-modernbusiness [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Modern Business Template
+# generator-btaw [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+> Bootstrap Template Another Way
+# What this does
+This will generate a bootstap scaffold and using grunt with handlebars it will create a single or multipage website.
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-modernbusiness using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-btaw using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-modernbusiness
+npm install -g btaw
 ```
 
 Then generate your new project:
