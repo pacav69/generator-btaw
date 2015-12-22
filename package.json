@@ -17,7 +17,7 @@
     "bootstrap",
     "grunt",
     "template",
-    "hanglebars"
+    "handlebars"
   ],
   "dependencies": {
     "generator-jasmine": "^0.2.0",
