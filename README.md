@@ -36,4 +36,4 @@ MIT © [pacav69]()
 [daviddm-image]: https://david-dm.org/pacav69/generator-btaw.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/pacav69/generator-btaw
 [coveralls-image]: https://coveralls.io/repos/pacav69/generator-btaw/badge.svg
-[coveralls-url]: https://coveralls.io/r/pacav69/btaw
+[coveralls-url]: https://coveralls.io/r/pacav69/generator-btaw
