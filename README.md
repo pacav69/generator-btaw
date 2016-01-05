@@ -6,6 +6,16 @@
 
 This will generate a bootstap scaffold and using grunt with handlebars it will create a single or multipage website.
 
+# Features
+Supports 
+
+
+- handlebars
+
+# For windows users i recommend cmder 
+A replacement for the command prompt
+[Latest version of cmder](https://github.com/bliker/cmder/releases/tag/v1.2)
+
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-btaw using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
