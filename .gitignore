@@ -82,3 +82,4 @@ coverage
 testingapp
 *.sublime-project
 *.sublime-workspace
+*.komodoproject
